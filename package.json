@@ -1,0 +1,24 @@
+{
+  "name": "bearingwithyou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewsedwardj/bearingwithyou.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewsedwardj/bearingwithyou/issues"
+  },
+  "homepage": "https://github.com/matthewsedwardj/bearingwithyou#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.2"
+  }
+}
